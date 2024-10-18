@@ -1,0 +1,23 @@
+{
+  "name": "rpgsheet",
+  "version": "1.0.0",
+  "description": "Aplicação para automatização de fichas de RPG",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JorgeGuerreiroA/RPGsheet.git"
+  },
+  "author": "Jorge Guerreiro de Amorim",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/JorgeGuerreiroA/RPGsheet/issues"
+  },
+  "homepage": "https://github.com/JorgeGuerreiroA/RPGsheet#readme",
+  "devDependencies": {
+    "electron": "^33.0.1"
+  }
+}
